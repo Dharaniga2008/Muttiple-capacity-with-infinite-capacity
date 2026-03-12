@@ -22,7 +22,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program
 ```
-#Developed By: DHARANIGA S
+#NAME : DHARANIGA S
 #Register No: 212225040068
 
 import math
@@ -59,7 +59,8 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
-<img width="916" height="431" alt="image" src="https://github.com/user-attachments/assets/4be675cb-44cf-409a-8d94-49b4d8780752" />
+<img width="790" height="549" alt="image" src="https://github.com/user-attachments/assets/307a7de3-4cbb-43be-a2cb-a50885b2e775" />
+
 
 
 ## Result : 
